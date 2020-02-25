@@ -837,4 +837,3 @@ ben.config(command=Smn)
 raise_frame(Home)
 
 root.mainloop()
-
